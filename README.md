@@ -5,8 +5,8 @@
 **最新稳定版 v0.8.11** ｜ [⬇ 下载 EXE](https://github.com/Bowingggg/qqspeed-replay-merger/releases/download/v0.8.11/QQSpeed_Merger_v0.8.11_SecondaryClockFallback.exe) ｜ [版本说明](https://github.com/Bowingggg/qqspeed-replay-merger/releases/tag/v0.8.11)
 
 - 文件：`QQSpeed_Merger_v0.8.11_SecondaryClockFallback.exe`
-- 大小：10,655,232 字节
-- SHA-256：`FA2CAAC673FD4A54FDC75DABE199622156949DF6C3C683D24F50362B289AE23C`
+- 大小：10,654,208 字节
+- SHA-256：`95334BF469700B21C484D1586ABAAD7941970D33E2FF62AEC719C4EA8C297ABE`
 
 ---
 
