@@ -2,11 +2,11 @@
 
 把两份单人录像合并成一份双人回放的小工具。Windows 单文件程序，双击即用，全程离线。
 
-**最新稳定版 v0.8.13** ｜ [⬇ 下载 EXE](https://github.com/Bowingggg/qqspeed-replay-merger/releases/download/v0.8.13/QQSpeed_Merger_v0.8.13.exe) ｜ [版本说明](https://github.com/Bowingggg/qqspeed-replay-merger/releases/tag/v0.8.13)
+**最新稳定版 v0.8.13** ｜ [⬇ 下载 EXE](https://github.com/Bowingggg/qqspeed-replay-merger/releases/download/v0.8.13/QQSpeed_Merger_v0.8.13_UniversalIntro.exe) ｜ [版本说明](https://github.com/Bowingggg/qqspeed-replay-merger/releases/tag/v0.8.13)
 
-- 文件：`QQSpeed_Merger_v0.8.13.exe`
-- 大小：10,779,648 字节
-- SHA-256：`7C5F9AFF38D64CAD339327594E827BD82EE8B4862C8B846E85E7B1661C49BCF3`
+- 文件：`QQSpeed_Merger_v0.8.13_UniversalIntro.exe`
+- 大小：10,781,184 字节
+- SHA-256：`05C3052A1E88084AB8D5A73A47E83709B96E1FFB2C004F1B3CE6944E1AD42996`
 
 ---
 
@@ -100,7 +100,7 @@ SAV 文件有自己的内部版本，不同年代记录的每帧内容可能不�
 不能，这些都是固定的：底板决定录像能不能被游戏正常加载，改动的余地很小。唯一可选的是「替换车型为板车」这个选项。
 
 **「简介」是干什么用的？**
-写进录像简介字段的一句话说明。留空时自动使用输出文件名；输入文字就按你写的保存。旁边的「修改录像简介…」可以单独给已有录像改简介，生成一份副本，原文件不会被改动。文字使用 GBK 编码，最多 127 字节（纯中文一般 60 多字）。
+写进录像简介字段的一句话说明。留空时自动使用输出文件名；输入文字就按你写的保存。旁边的「修改录像简介…」可以单独给已有录像改简介，生成一份副本，原文件不会被改动；它按文件头识别，连 v12 这类老录像也能改简介，但**能改简介不代表能合并**。文字使用 GBK 编码，最多 127 字节（纯中文一般 60 多字）。
 
 **保存目录里有同名文件会被覆盖吗？**
 不会。第一份叫原名，之后再生成就自动加 `_002`、`_003`，原录像文件一个字节都不会被改写。
